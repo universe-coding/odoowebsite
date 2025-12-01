@@ -1,0 +1,5 @@
+odoo==18.0.*
+psycopg2-binary
+pillow
+babel
+num2words
